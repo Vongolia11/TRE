@@ -1,6 +1,6 @@
 # TRE: Training-Free Hallucination Detection for Diffusion Language Models
 
-**Accepted at EACL 2027 (Main Conference)** · [OpenReview submission](https://openreview.net/forum?id=ziiqj7oIj5)
+**Accepted at EACL 2027 (Main Conference)** · 
 
 **Authors:** Pengcheng Weng, Yanyu Qian, Yue Tan, Yixin Liu.
 
