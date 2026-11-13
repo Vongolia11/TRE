@@ -1,0 +1,39 @@
+# Generated model outputs, datasets and large artifacts
+outputs/
+results/
+data/
+checkpoints/
+*.npz
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.bin
+*.parquet
+*.arrow
+*.csv
+*.jsonl
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+
+# Python build / test artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.coverage
+.ipynb_checkpoints/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
